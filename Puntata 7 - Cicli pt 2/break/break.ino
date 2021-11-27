@@ -1,7 +1,7 @@
 /*
 * Esempio per Arduino e altre board (Board usata nel corso Arduino Nano RP2040 Connect)
 * Puntata 7 di Impariamo Arduino Live : https://youtu.be/GGcnIBsYJ5k
-* Il seguente codice contiene due cicli che esegue il blink di due led differenti, per passare da un blink e l'altro si usano due pulsanti
+* Il seguente codice esegue il blink di due led differenti, per passare da un blink e l'altro si usano due pulsanti
 * ogni pulsante permette di uscire da un determinato blink
 * Creato da : Mirko Pacioni
 * Licenza : GPL v3
