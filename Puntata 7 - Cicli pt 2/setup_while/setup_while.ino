@@ -7,8 +7,8 @@
 * Licenza : GPL v3
 */
 
-//definisco una costante con il numero del pin 2, darà il nome al pin del led blu
-#define LEDBLUE 2
+//definisco una costante con il numero del pin 3, darà il nome al pin del led blu
+#define LEDBLUE 3
 
 //creo una variabile booleana (true o false) che terrà traccia del valore del pin del led blu, viene inizializzata a false (LOW, led spento)
 bool statusBLUE = false;

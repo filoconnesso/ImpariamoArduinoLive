@@ -9,9 +9,9 @@
 */
 
 //definisco una costante con il numero del pin 3, darà il nome al pin del led blu
-#define LEDBLUE 2
+#define LEDBLUE 3
 //definisco una costante con il numero del pin 2, darà il nome al pin del led verde
-#define LEDGREEN 3
+#define LEDGREEN 2
 //definisco una costante con il numero del pin 4, darà il nome al pin del led rosso
 #define LEDRED 4
 //definisco una costante con il numero del pin 5, darà il nome al pin del led bianco
