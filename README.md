@@ -1,2 +1,2 @@
 # ImpariamoArduinoLive
-Materiale pubblico del corso su Arduino di Filo Connesso "Impariamo Arduino Live" 
+Materiale pubblico del corso "Impariamo Arduino Live" di Filo Connesso 
