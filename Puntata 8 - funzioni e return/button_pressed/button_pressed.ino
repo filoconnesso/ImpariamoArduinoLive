@@ -54,4 +54,8 @@ void loop() {
   pressed(12, ledon, 2);
   //controllo pressed sul pin 11 e richiamo la funzione ledoff indicando il pin 2 da spegnere
   pressed(11, ledoff, 2);
+
+  //risultato del codice è che quando premo il pulsante sul pin 12 (pulsante 1) il  led sul pin 2 si accende
+  //se premo il pulsante sul pin 11 (pulsante 2) il led sul pin 2 si spegne
+  
 }
