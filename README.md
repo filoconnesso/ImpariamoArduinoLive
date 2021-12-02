@@ -6,6 +6,10 @@ Materiale pubblico del corso "Impariamo Arduino Live" di Filo Connesso
 
 Impariamo Arduino Live non è un vero e proprio corso ma un insieme di appuntamenti, fatti appunto in live, per scoprire insieme il mondo della programmazione su Arduino. Gli eventi vengono fatti in live per creare un'interazione tra noi che spieghiamo la programmazione e chi è in chat a seguire la puntata, rispondendo in tempo reale alle domande degli spettatori e aumentando il valore della lezione.
 
+# Date di uscita
+
+Impariamo Arduino Live esce ogni mercoledì e ogni venerdì alle 21.30 sul nostro canale YouTube!
+
 # Link utili : 
 
 - Documentazione Codice Arduino : https://www.arduino.cc/reference/en/
