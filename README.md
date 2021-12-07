@@ -33,3 +33,4 @@ Playlist completa : https://www.youtube.com/playlist?list=PLmEOPSkVdoocx5FDb18Xj
 - lezione 7 (for e while pt 2) : https://www.youtube.com/watch?v=GGcnIBsYJ5k
 - lezione 8 (void e return) : https://www.youtube.com/watch?v=nKjv-KkZZig
 - lezione 9 (string in array char) : https://www.youtube.com/watch?v=aUWFLuYPivI
+- lezione 10 (Classe String) : https://www.youtube.com/watch?v=wyS_4ogwdwE
