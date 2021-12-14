@@ -34,3 +34,5 @@ Playlist completa : https://www.youtube.com/playlist?list=PLmEOPSkVdoocx5FDb18Xj
 - lezione 8 (void e return) : https://www.youtube.com/watch?v=nKjv-KkZZig
 - lezione 9 (string in array char) : https://www.youtube.com/watch?v=aUWFLuYPivI
 - lezione 10 (Classe String) : https://www.youtube.com/watch?v=wyS_4ogwdwE
+- lezione 11 (convertitori e controlli char) : https://www.youtube.com/watch?v=JXEx49cuLww
+- lezione 12 (la matematica su Arduino) : https://www.youtube.com/watch?v=2SrmZFKeFvg
