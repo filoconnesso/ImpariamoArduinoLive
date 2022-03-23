@@ -18,6 +18,16 @@ Impariamo Arduino Live esce ogni mercoledì e ogni venerdì alle 21.30 sul nostr
 - Link al nostro sito : https://www.filoconnesso.it
 - Link al nostro canale YouTube : https://www.youtube.com/channel/UCMpOBM7teXlUs51r_rmVeoA
 
+# Ringraziamenti
+
+Impariamo Arduino Live è un prodotto totalmente gratuito realizzato grazie alla collaborazione della community di Filo Connesso.
+Teniamo a ringraziare per i loro contributi :
+
+- Fabrizio Vignolini
+- Concetto G.
+- Paolo Petenatti
+- Stefano Rimini
+
 # Lezioni attuali su YouTube
 
 Playlist completa : https://www.youtube.com/playlist?list=PLmEOPSkVdoocx5FDb18XjThuqQsDx1SmW
@@ -36,3 +46,19 @@ Playlist completa : https://www.youtube.com/playlist?list=PLmEOPSkVdoocx5FDb18Xj
 - lezione 10 (Classe String) : https://www.youtube.com/watch?v=wyS_4ogwdwE
 - lezione 11 (convertitori e controlli char) : https://www.youtube.com/watch?v=JXEx49cuLww
 - lezione 12 (la matematica su Arduino) : https://www.youtube.com/watch?v=2SrmZFKeFvg
+- lezione 13 (bit & bytes) : https://youtu.be/97o8DPiW1OQ
+- lezione 14 (random numbers) : https://youtu.be/qNBx9IxYcSk
+- lezione 15 (puntata speciale con Paolo Aliverti) : https://youtu.be/f18XwpbatJ4
+- lezione 16 (millis, micros, delay e delayMicroseconds) : https://youtu.be/nqL65fmKfSA
+- lezione 17 (pin digitali) : https://youtu.be/yvO8QBQh3tg
+- lezione 18 (interrupts) : https://youtu.be/9mHsL1_bHfE
+- lezione 19 (pin analogici e pwm) : https://youtu.be/P1OLH0sSmw4
+- lezione 20 (advanced pin, tone, pulsein etc.) : https://youtu.be/7b2X7g5qFgo
+- lezione 21 (shiftout, shiftregister e aumento dei pin) : https://youtu.be/uxYPwOyxhWs
+- lezione 22 (la classe Stream e uso di Serial) : https://youtu.be/Bk8CQqIGtFQ
+- lezione 23 (la programmazione ad oggetti) : https://youtu.be/3JbBhh1OGTA
+- lezione 24 (il primo blink lo facciamo a modo nostro, le classi) : https://youtu.be/C9ipVaE4BMw
+- lezione 25 (i pulsanti su Arduino) : https://youtu.be/2JhSIqSuVyY
+- lezione 26 (gestiamo i pulsanti con le classi) : https://youtu.be/kBNIo0qK864
+- lezione 27 (le struct) : https://youtu.be/qLeEfPBmzH4
+- lezione 28 (enumarazione) : https://youtu.be/K5Maxf-TbhE
